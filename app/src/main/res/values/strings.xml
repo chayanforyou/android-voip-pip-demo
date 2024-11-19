@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Picture In Picture</string>
+    <string name="rationale_video_app">This app needs access to your mic</string>
+    <string name="user_name">Chayan Mistry</string>
+    <string name="calling">Calling...</string>
+    <string name="call_ended">Call Ended</string>
+</resources>
